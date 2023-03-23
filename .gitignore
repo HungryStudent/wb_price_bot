@@ -1,0 +1,6 @@
+.idea
+venv/
+docs/
+settings.ini
+Бот цены WB.drawio
+test.py
