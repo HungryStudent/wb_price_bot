@@ -2,6 +2,7 @@ from aiogram.utils import executor
 
 from core.database import engine
 from create_bot import dp
+from handlers import users
 
 from core import models
 
